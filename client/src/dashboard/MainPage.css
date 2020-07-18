@@ -1,0 +1,14 @@
+
+#logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 2.2em
+}
+
+#logo svg {
+    margin-right: 0.89em;
+}
+
+
+
